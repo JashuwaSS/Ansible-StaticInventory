@@ -1,1 +1,3 @@
-# Host machine details
+#Please Enter the Host Machine details
+
+172.31.14.170 ansible_user=ec2-user
