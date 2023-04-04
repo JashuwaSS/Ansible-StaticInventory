@@ -1,3 +1,4 @@
 #Please Enter the Host Machine details
 
+[appServers]
 172.31.14.170 ansible_user=ec2-user
